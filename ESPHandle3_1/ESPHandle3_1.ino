@@ -12,7 +12,7 @@ char rxByte = 0;
 
 //wifi
 const char wifissid[] = "VaporTrails";
-const char wifipsk[] = "JennyKyle2822";
+const char wifipsk[] = "-------------";
 byte reqCounter = 0;
 String req = "";
 char incomingChar;
